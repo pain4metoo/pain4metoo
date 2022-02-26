@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End development
 - 🌱 I’m currently learning Javascript and React
 - 📫 Email: *pain4metoo@gmail.com* 
-- 📫 Society:  [*Linkedin*](https://www.linkedin.com/in/evgeniy-kachanov-391212209/)  
+- 📫 Society:  [*Linkedin*](https://www.linkedin.com/in/pain4metoo)  
 - 📫 Mobile: *+375297340883*
 
 
