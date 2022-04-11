@@ -5,9 +5,6 @@
 - 📫 Society:  [*Linkedin*](https://www.linkedin.com/in/pain4metoo)  
 - 📫 Mobile: *+375297340883*
 
-
-I am currently learning Typescript and React.
-
 My home project I'm currently working on. Stack: React, Typescript, js, scss, tsx, jsx .
 
 - 📫  [*repository*](https://github.com/pain4metoo/english-quiz) 
