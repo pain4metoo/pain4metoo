@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and React
 - 📫 Email: *pain4metoo@gmail.com* 
 - 📫 Society:  [*Linkedin*](https://www.linkedin.com/in/pain4metoo)  
-- 📫 Society:  [*CV*](https://pain4metoo.github.io/myProjects/cv/)  
+- 📫 My cv:  [*click*](https://pain4metoo.github.io/myProjects/cv/)  
 - 📫 Mobile: *+48791214782*
 
 My home project I'm currently working on. Stack: React, Typescript, js, scss, tsx, jsx .
