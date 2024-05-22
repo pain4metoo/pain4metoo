@@ -2,11 +2,11 @@
 <h1>:wave: Hi there, I'm Evgeny Kachanov </h1>
 <h3>Junior Frontend Developer from Belarus</h3>
   
-  <div id="social" align="center>
-<a href="https://linkedin.com/in/pain4metoo">
+<div id="social" align="center">
+  <a href="https://linkedin.com/in/pain4metoo">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-    <a href="https://pain4metoo@gmail.com">
+<a href="mailto:pain4metoo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://t.me/pain4metoo">
