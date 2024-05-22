@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=pain4metoo&style=flat-square&color=blue" alt="views"/>
 </div>
 
 ### About me
@@ -39,7 +40,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-![](https://komarev.com/ghpvc/?pain4metoo&color=green)
+### :fire:My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=pain4metoo&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pain4metoo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
