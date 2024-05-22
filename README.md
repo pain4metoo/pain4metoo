@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<h1>Hi there, I'm Evgeny Kachanov</h1>
-<h3>Junior Front End Developer from Belarus</h3>
+<h1>:wave: Hi there, I'm Evgeny Kachanov </h1>
+<h3>Junior Frontend Developer from Belarus</h3>
   
   <div id="social" align="center>
 <a href="https://linkedin.com/in/pain4metoo">
@@ -31,13 +31,16 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://pixijs.download/pixijs-banner-no-version.png?v=1" width="110" height="28">
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-<img src="https://pixijs.download/pixijs-banner-no-version.png?v=1" width="100" height="28">
+
+![](https://komarev.com/ghpvc/?pain4metoo&color=green)
+
 
 
 
