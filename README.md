@@ -22,7 +22,7 @@
 -  :green_heart: I regularly write code in JavaScript and TypeScript
 -  :robot: I strive to write code that is understandable for people, not robots
 -  :point_right:Currently, I am looking for an internship in frontend development with a focus on React
--  :world_map: Reach me by [LinkedIn](https://linkedin.com/in/pain4metoo), [Resume](https://smallpdf.com/ru/file#s=60f97ff2-8a4d-4039-8ed4-a2c6aea58ac2)
+-  :world_map: Reach me by [LinkedIn](https://linkedin.com/in/pain4metoo), [Resume](https://smallpdf.com/ru/file#s=790ccfac-e290-42d1-9640-e680ff103471)
 
 ### Languages and tools
 
